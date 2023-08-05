@@ -1,5 +1,6 @@
 # BankingApp
 
+## О приложении
 Приложение, имитирующее работу онлайн-банка.
 Функции:
 - Пополнение счета
@@ -8,6 +9,11 @@
 - Запись всех операций
 
 Для хранения данных используется Realm
+
+
+## Скриншоты приложения
+<img src="https://github.com/bikmurzin/BankingApp/assets/51128795/4f39e52d-a433-48e6-b80c-3e5915bc5cda" width="400"> <img src="https://github.com/bikmurzin/BankingApp/assets/51128795/2e867d96-daf7-4741-bb8e-906175a14728" width="400">
+<hr>
 
 ![image](https://github.com/bikmurzin/BankingApp/assets/51128795/4f39e52d-a433-48e6-b80c-3e5915bc5cda)
 ![image](https://github.com/bikmurzin/BankingApp/assets/51128795/2e867d96-daf7-4741-bb8e-906175a14728)
