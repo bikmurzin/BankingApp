@@ -73,7 +73,6 @@ class ViewController: UIViewController, TotalSumDelegate {
     }
     
     @IBAction func historyViewTouched(_ sender: UITapGestureRecognizer) {
-        print("Touch")
         let destination = storyboard?.instantiateViewController(withIdentifier: "HistoryOperationVC") as! HistoryOperationVC
         navigationController?.pushViewController(destination, animated: true)
     }
